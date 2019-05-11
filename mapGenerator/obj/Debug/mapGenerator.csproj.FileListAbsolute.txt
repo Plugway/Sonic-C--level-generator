@@ -1,0 +1,7 @@
+C:\Users\EgorK\source\repos\mapGenerator\mapGenerator\bin\Debug\mapGenerator.exe.config
+C:\Users\EgorK\source\repos\mapGenerator\mapGenerator\bin\Debug\mapGenerator.exe
+C:\Users\EgorK\source\repos\mapGenerator\mapGenerator\bin\Debug\mapGenerator.pdb
+C:\Users\EgorK\source\repos\mapGenerator\mapGenerator\obj\Debug\mapGenerator.csprojAssemblyReference.cache
+C:\Users\EgorK\source\repos\mapGenerator\mapGenerator\obj\Debug\mapGenerator.csproj.CoreCompileInputs.cache
+C:\Users\EgorK\source\repos\mapGenerator\mapGenerator\obj\Debug\mapGenerator.exe
+C:\Users\EgorK\source\repos\mapGenerator\mapGenerator\obj\Debug\mapGenerator.pdb
