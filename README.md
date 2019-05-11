@@ -1,6 +1,7 @@
 # Sonic C# level generator
 Генератор уровней для соника
 Уровень представляет собой строку level в program.cs  
+  
 | Символ объекта| Имя                           | Текстура      | Размеры в блоках  |  
 |:-------------:|:-----------------             |:--------      |:-----------------:|  
 | 0             | Air                           |![alt][logo1]  |1x1                |  
@@ -26,6 +27,7 @@
 | m             | Badnik motobug                |![alt][logo21] |1x1                |  
 | z             | Shutter                       |--             |1x1(?)             |  
 | n             | 4 rings                       |![alt][logo22] |1x1                |  
+  
     [logo1]: https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/tileRes/tile0.png "Air"  
     [logo2]: https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/tileRes/tile2.png "Tile"  
     [logo3]: https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/sonicStanding.png "Sonic"  
