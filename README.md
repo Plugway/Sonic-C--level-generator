@@ -3,69 +3,37 @@
 Уровень представляет собой строку level в program.cs
 Все возможные символы:
     0 - air
-    ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/tileRes/tile0.png "Air")
-    
-    
+    ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/tileRes/tile0.png "Air")  
     1 - tile
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/tileRes/tile2.png "Tile")
-    
-    
     2 - sonic
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/sonicStanding.png "Sonic")
-    
-    
     3 - spikes
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/spikesUp.png "Spikes")
-    
-    
     r - spikes toRight
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/spikesRight.png "Spikes")
-    
-    
     d - spikes down
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/spikesDown.png "Spikes")
-    
-    
     4 - conveyor r
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/conveyorBelt1.png "Conveyor")
-    
-    
     5 - conveyor l
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/conveyorBelt1.png "Conveyor")
-    
-    
     6 - smoke
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/bgSmoke4.png "Smoke")
-    
-    
     7 - SpikeBallSmallUpDown
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/spikeBallSmall.png "Spike ball")
-    
-    
     8 - SpikeBallSmallLeftRight
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/spikeBallSmall.png "Spike ball")
-    
-    
     9 - SpikeBallBig u d
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/spikeBallBig.png "Spike ball")
-    
-    
     a - SpikeBallBig l r
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/spikeBallBig.png "Spike ball")
-    
-    
     l - LavaTop
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/lavaTop2.png "Lava")
-    
-    
     i - Lava
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/lava2.png "Lava")
-    
-    
     s - spring
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/yellowSpring1.png "Spring")
-    
-    
     p - platform
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/platform.png "Platform")
     t - troll square
