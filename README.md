@@ -1,7 +1,7 @@
 # Sonic C# level generator
 Генератор уровней для соника
 Уровень представляет собой строку level в program.cs
-Все возможные символы:
+Все возможные символы:  
     0 - air
     ![alt](https://github.com/Plugway/Sonic-C-game/blob/master/sonic-c-sharp/graphics/tileRes/tile0.png "Air")  
     1 - tile
